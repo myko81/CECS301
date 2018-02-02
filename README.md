@@ -1,2 +1,3 @@
-# CECS301_Computer_Logic_Design_II
-Verilog
+# CECS301
+Computer Logic Design II
+	Language: Verilog
